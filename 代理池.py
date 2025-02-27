@@ -13,7 +13,7 @@ from requests.adapters import HTTPAdapter
 class ProxyPoolApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("IP代理池工具 v1.0")
+        self.title("IP代理池工具 v1.0 作者：charizard_xy")
         self.geometry("1200x800")
         
         # 初始化配置
