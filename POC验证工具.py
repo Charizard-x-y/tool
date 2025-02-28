@@ -2,6 +2,7 @@
 poc生成验证工具
 作者：Charizard_xy
 最后更新：2025.02.27
+依赖：pip install requests beautifulsoup4
 """
 import tkinter as tk
 from tkinter import ttk, filedialog, scrolledtext, messagebox
