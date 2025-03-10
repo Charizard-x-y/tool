@@ -1,4 +1,9 @@
 #仅供学习使用，切勿用于非法活动
+"""
+漏洞payload管理
+作者：Charizard_xy
+功能：管理payload
+"""
 # -*- coding: utf-8 -*-
 import sys
 import io
