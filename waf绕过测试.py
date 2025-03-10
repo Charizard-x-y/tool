@@ -1,6 +1,10 @@
 #仅限授权测试使用
 #禁止用于非法渗透
-
+"""
+waf绕过管理
+作者：Charizard_xy
+功能：添加waf
+"""
 
 import sys
 import base64
