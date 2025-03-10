@@ -1,3 +1,9 @@
+"""
+代理池管理
+作者：Charizard_xy
+功能：爬取ip
+"""
+
 import tkinter as tk
 from tkinter import ttk, scrolledtext, messagebox, filedialog
 import requests
